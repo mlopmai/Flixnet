@@ -10,8 +10,8 @@ Una página para series y peliculas de verdad.
 El creador de este proyeco es Manuel López, Alumno de 2ºDaw
 
 **¿Como puedo acceder a Flixnet?:**
-* [A través de tu telefono movil]
-* [A través de tu ordenador o portatil]
+* A través de tu telefono movil
+* A través de tu ordenador o portatil
 
 **Tecnologías:**
 * Python
