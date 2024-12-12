@@ -13,19 +13,12 @@ El creador de este proyeco es Manuel López, Alumno de 2ºDaw
 * A través de tu telefono movil
 * A través de tu ordenador o portatil
 
-**Tecnologías:**
-* Python
+**¿Que hemos usado para programar Flixnet?:**
+* Javascript
 * Flask
-* HTML
-* CSS
-
-## Instalación
-1. Clona el repositorio: `git clone https://github.com/tuusuario/mi-proyecto-genial.git`
-2. Instala las dependencias: `pip install -r requirements.txt`
-3. Ejecuta el proyecto: `python app.py`
-
-## Uso
-[Explicar cómo usar el proyecto]
+* Php
+* Html
+* Css
 
 ## Contribuciones
 Las contribuciones son bienvenidas! Por favor, abre un issue para discutir nuevas características.
