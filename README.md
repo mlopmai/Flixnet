@@ -24,7 +24,10 @@ El creador de este proyeco es Manuel López, Alumno de 2ºDaw
 Las contribuciones son bienvenidas! Por favor, abre un issue para discutir nuevas características.
 
 ## Licencia
-Este proyecto está licenciado bajo la licencia MIT.
+![](perrito.png)
+<br>
+[Este es el enlace a nuestro github](https://github.com/mlopmai/Flixnet/edit/main/README.md)
+
 
 if (codigo){
 no hay codigo
