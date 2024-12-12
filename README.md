@@ -1,14 +1,13 @@
 # Flixnet
 Una página para series y peliculas de verdad.
-## Tabla de contenidos
-* **Descripción**
-* **Instalación**
-* **Uso**
-* **Contribuciones**
-* **Licencia**
 
-## Descripción
-Este proyecto tiene como objetivo [describir el objetivo del proyecto].
+## ¿Que permite Flixnet?
+* **Podrás alquilar dvd de series y peliculas.**
+* **Recibirlas virtualmente o en físico.**
+* **Podrás compartir la cuenta hasta con cuatro usuarios**
+
+## Creador
+El creador de este proyeco es Manuel López, Alumno de 2ºDaw
 
 **Características:**
 * [Característica 1]
@@ -34,3 +33,7 @@ Las contribuciones son bienvenidas! Por favor, abre un issue para discutir nueva
 
 ## Licencia
 Este proyecto está licenciado bajo la licencia MIT.
+
+if (codigo){
+no hay codigo
+}
