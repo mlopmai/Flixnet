@@ -28,6 +28,13 @@ Las contribuciones son bienvenidas! Por favor, abre un issue para discutir nueva
 <br>
 [Este es el enlace a nuestro github](https://github.com/mlopmai/Flixnet/edit/main/README.md)
 
+## Precios
+
+| Plan | Características | Precio mensual |
+|---|---|---|
+| Básico | 2 series y 2 peliculas | $5 |
+| Estándar | 4 series y 4 peliculas | $10 |
+| Premium | 8 series y 8 peliculas, además, las peliculas y series virtuales son sin limites | $50 |
 
 if (codigo){
 no hay codigo
